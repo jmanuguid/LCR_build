@@ -1,4 +1,6 @@
-# **Binan LCR UPDATE 11-07-2024**
+# **Binan LCR UPDATE 11-25-2024**
+1. Marriagge (Complete Name)
+2. Birth (Fix Edit Record Registration date)
 
 ## **Copying build files to CodeIgniter**
 
